@@ -2,5 +2,5 @@
  
 Minion speak is a fun app which translates english into minions / banana langauge.
 
-minions-speaks-reactjs.netlify.app
+[live project](minions-speaks-reactjs.netlify.app)
 
